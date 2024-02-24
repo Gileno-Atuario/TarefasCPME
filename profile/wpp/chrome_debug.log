@@ -1,12 +1,5 @@
-[4408:704:0223/221139.104:WARNING:chrome_main_delegate.cc(668)] This is Chrome version 121.0.6167.187 (not a warning)
-[4408:704:0223/221139.271:INFO:policy_logger.cc(144)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
-[4408:704:0223/221139.271:INFO:policy_logger.cc(144)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
-[4408:704:0223/221141.028:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
-[4408:704:0223/221151.645:INFO:CONSOLE(216)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/app.6eecc95c5605cafebff8.js (216)
-[4408:704:0223/221151.645:INFO:CONSOLE(215)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.1643aa674555592c0d5f.worker.js (215)
-[4408:704:0223/221153.990:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
-[4408:704:0223/221154.509:INFO:CONSOLE(215)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/serviceworker.js (215)
-[4408:704:0223/221154.510:INFO:CONSOLE(215)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/serviceworker.js (215)
-[4408:704:0223/222337.629:INFO:CONSOLE(5)] "The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (https://bit.ly/audio-worklet)", source: https://web.whatsapp.com/main.9573ecec4fb269a42dda.js (5)
-[4408:704:0223/222337.908:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
-[4408:704:0223/235559.766:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[4336:18044:0224/115317.449:WARNING:chrome_main_delegate.cc(668)] This is Chrome version 121.0.6167.189 (not a warning)
+[4336:18044:0224/115317.540:INFO:policy_logger.cc(144)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[4336:18044:0224/115317.540:INFO:policy_logger.cc(144)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[4336:18044:0224/115318.653:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[4336:18044:0224/124725.052:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
